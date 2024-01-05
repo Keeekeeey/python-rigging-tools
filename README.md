@@ -12,7 +12,7 @@ Tool last updated: 2.10.23
 Started as an exercise in python and turned into my passion project. I used online resources to complete it, but I wrote every line of code and added functionality to the product. It has pre-built joint realtionships, with many user-accessable values that make the jaw rig very versitile for any character mouth.<br>
 Tool last updated: 4.13.23
 - Creates a set of guides that can postioned by the user, which can then be turned into joints with pre-made connections and constraints.
-- Made in Python
+- Made in Python, used MEL library
 - [Click here to watch the tool in action.](https://www.youtube.com/watch?v=J-I3eLb5h4c)
 
 ## Auto Limb Tool
@@ -20,4 +20,4 @@ Created to speed up rigging time while ensuring quality. <br>
 Tool last updated: 5.15.23
 - Allows the user to select a given joint chain and a chain type. Based on the chain type, the tool will create an arm, leg or animal leg each with diffrent attributes and their own pole vector.
 - Includes squash and strech features.
-- Made in Python
+- Made in Python, used MEL library
